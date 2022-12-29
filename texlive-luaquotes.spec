@@ -1,5 +1,5 @@
 Name:		texlive-luaquotes
-Version:	64934
+Version:	65255
 Release:	1
 Summary:	Smart setting of quotation marks
 Group:		Publishing
