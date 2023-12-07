@@ -1,6 +1,6 @@
 Name:		texlive-luaquotes
-Version:	65255
-Release:	2
+Version:	65652
+Release:	1
 Summary:	Smart setting of quotation marks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luaquotes
