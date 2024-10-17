@@ -3,7 +3,7 @@ Version:	65652
 Release:	1
 Summary:	Smart setting of quotation marks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luaquotes
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/luaquotes
 License:	lppl1.3 cc-by-sa-3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luaquotes.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luaquotes.doc.r%{version}.tar.xz
